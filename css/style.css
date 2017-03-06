@@ -19,7 +19,7 @@ html, body{
 .banner{
     background: url(../images/b2.jpg) no-repeat 0px -384px;
     background-size: cover;
-    padding: 1em 0 1em;
+    padding: 1em 0 3em;
 }
 .agile-logo {
     width: 12%;
