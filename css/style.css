@@ -17,7 +17,7 @@ html, body{
 }
 /*-- banner --*/
 .banner{
-    background: url(../images/Basil.jpg) no-repeat 0px -384px;
+    background: url(../images/b2.jpg) no-repeat 0px -384px;
     background-size: cover;
     padding: 1em 0 10em;
 }
@@ -862,7 +862,7 @@ i.fa.fa-map-marker,i.fa.fa-envelope-o,i.fa.fa-mobile{
 /*-- responsive --*/
 @media(max-width:1440px){
 	.banner {
-		background: url(../images/Basil.jpg) no-repeat 0px -278px;
+		background: url(../images/b2.jpg) no-repeat 0px -278px;
 		background-size: cover;
 	}
 	#m_nav_menu {
@@ -874,7 +874,7 @@ i.fa.fa-map-marker,i.fa.fa-envelope-o,i.fa.fa-mobile{
 }
 @media(max-width:1366px){
 	.banner {
-		background: url(../images/Basil.jpg) no-repeat 0px -229px;
+		background: url(../images/b2.jpg) no-repeat 0px -229px;
 		background-size: cover;
 	}
 	.nav-tabs {
@@ -886,7 +886,7 @@ i.fa.fa-map-marker,i.fa.fa-envelope-o,i.fa.fa-mobile{
 }	
 @media(max-width:1280px){
 	.banner {
-		background: url(../images/Basil.jpg) no-repeat 0px -172px;
+		background: url(../images/b2.jpg) no-repeat 0px -172px;
 		background-size: cover;
 	}
 	#m_nav_menu {
@@ -901,7 +901,7 @@ i.fa.fa-map-marker,i.fa.fa-envelope-o,i.fa.fa-mobile{
 }
 @media(max-width:1080px){
 	.banner {
-		background: url(../images/Basil.jpg) no-repeat 0px 0px;
+		background: url(../images/b2.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.services-left {
